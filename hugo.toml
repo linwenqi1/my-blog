@@ -1,0 +1,4 @@
+baseURL = 'https://linwenqi1.github.io/my-blog/'
+languageCode = 'en-us'
+title = 'My Blog'
+theme = 'ananke'
