@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on My Blog</title>
     <link>https://linwenqi1.github.io/my-blog/posts/</link>
     <description>Recent content in Posts on My Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://linwenqi1.github.io/my-blog/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,19 @@
       <link>https://linwenqi1.github.io/my-blog/posts/my-first-post/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://linwenqi1.github.io/my-blog/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to My Blog&lt;/h1&gt;&#xA;&lt;p&gt;This is my first post on this blog. I&amp;rsquo;m using Hugo to generate a static website, and this is where I&amp;rsquo;ll write about tech, programming, and other topics.&lt;/p&gt;&#xA;&lt;h2 id=&#34;markdown-syntax&#34;&gt;Markdown Syntax&lt;/h2&gt;&#xA;&lt;p&gt;You can use &lt;strong&gt;Markdown&lt;/strong&gt; to format your content easily.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bullet point 1&lt;/li&gt;&#xA;&lt;li&gt;Bullet point 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Enjoy reading!&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to My Blog&lt;/h1&gt;
+&lt;p&gt;This is my first post on this blog, and I&amp;rsquo;m using Hugo with the PaperMod theme.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-hugo&#34;&gt;What is Hugo?&lt;/h2&gt;
+&lt;p&gt;Hugo is a fast and modern static site generator. It&amp;rsquo;s easy to set up, and you can use it to create blogs, portfolios, or even documentation sites.&lt;/p&gt;
+&lt;h3 id=&#34;features-of-papermod&#34;&gt;Features of PaperMod:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lightweight and fast.&lt;/li&gt;
+&lt;li&gt;Highly customizable.&lt;/li&gt;
+&lt;li&gt;Supports dark mode.&lt;/li&gt;
+&lt;li&gt;Client-side search with FlexSearch.&lt;/li&gt;
+&lt;li&gt;Built-in social media sharing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks for reading!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
