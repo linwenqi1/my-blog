@@ -14,7 +14,7 @@
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://linwenqi1.github.io/my-blog/posts/my-first-post/</guid>
       <description>&lt;h1 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to My Blog&lt;/h1&gt;
-&lt;p&gt;This is my first post on this blog, and I&amp;rsquo;m using Hugo with the PaperMod theme.&lt;/p&gt;
+&lt;p&gt;This is my first post on this blog, and I&amp;rsquo;m using Hugo with the PaperMod theme. In this post, I&amp;rsquo;ll also demonstrate mathematical formulas using KaTeX and code blocks.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-hugo&#34;&gt;What is Hugo?&lt;/h2&gt;
 &lt;p&gt;Hugo is a fast and modern static site generator. It&amp;rsquo;s easy to set up, and you can use it to create blogs, portfolios, or even documentation sites.&lt;/p&gt;
 &lt;h3 id=&#34;features-of-papermod&#34;&gt;Features of PaperMod:&lt;/h3&gt;
@@ -25,7 +25,8 @@
 &lt;li&gt;Client-side search with FlexSearch.&lt;/li&gt;
 &lt;li&gt;Built-in social media sharing.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Thanks for reading!&lt;/p&gt;</description>
+&lt;h2 id=&#34;mathematical-formulas&#34;&gt;Mathematical Formulas&lt;/h2&gt;
+&lt;p&gt;You can write mathematical formulas using &lt;strong&gt;KaTeX&lt;/strong&gt;. Here&amp;rsquo;s an example of inline math:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
