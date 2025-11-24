@@ -6,7 +6,14 @@
     <description>Recent content in Posts on My Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://linwenqi1.github.io/my-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://linwenqi1.github.io/my-blog/posts/my-first-post/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://linwenqi1.github.io/my-blog/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to My Blog&lt;/h1&gt;&#xA;&lt;p&gt;This is my first post on this blog. I&amp;rsquo;m using Hugo to generate a static website, and this is where I&amp;rsquo;ll write about tech, programming, and other topics.&lt;/p&gt;&#xA;&lt;h2 id=&#34;markdown-syntax&#34;&gt;Markdown Syntax&lt;/h2&gt;&#xA;&lt;p&gt;You can use &lt;strong&gt;Markdown&lt;/strong&gt; to format your content easily.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bullet point 1&lt;/li&gt;&#xA;&lt;li&gt;Bullet point 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Enjoy reading!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
